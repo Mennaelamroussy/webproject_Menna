@@ -1,10 +1,59 @@
 .jumbotron {
-		background-image: url('../Cupcakes-for-jumbotron.jpg');
+		background-image: url('../EA7910.png');
 		background-size:cover;
 		background-attachment: fixed;
-		min-height: 600px;
+		min-height: 275px;
 }
 
-div div div div div h1 {
-	font-color:white;
+.fa {
+  padding: 10px;
+  font-size: 50px;
+  width: 60px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 100%;
+  margin: 5px 2px;
+
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background:  #000080;
+  color: white;
+}
+.fa-twitter {
+  background: #33cccc;
+  color: white;
+}
+
+.fa-instagram {
+  background: #800080;
+  color: white;
+}
+
+.fa-pinterest {
+  background:  #ff3385;
+  color: white;
+}
+
+.fa-tumblr {
+  background: #8c8c8c;
+  color: white;
+}
+
+ul.nav-navbar-nav {
+  font-color:white;
+}
+
+.img-circle {
+  height: 200px;
+  width: 200px;
+}
+
+.FM {
+  height: 370px;
+  width: 285px;
 }
